@@ -7,39 +7,39 @@
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 6
 "../../../Engine/Content/BasicShapes/Cone.uasset" 7
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 8
-"../../../Engine/Content/BasicShapes/Plane.uasset" 9
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 10
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 11
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 12
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 13
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 14
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 15
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 16
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 17
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 18
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 19
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 20
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 21
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 22
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 23
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 24
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 25
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 26
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 27
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 28
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 29
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 30
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 31
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 32
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 33
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 34
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 35
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 36
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 37
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 38
-"../../../Engine/Content/EditorResources/S_Note.uasset" 39
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 40
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 41
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 9
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 10
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 11
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 12
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 13
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 14
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 15
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 16
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 17
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 24
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 25
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 26
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 27
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 28
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 29
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 30
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 34
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 35
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 36
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 37
+"../../../Engine/Content/EditorResources/S_Note.uasset" 38
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 39
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 40
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 41
 "../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 42
 "../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 43
 "../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 44
@@ -164,82 +164,151 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 163
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 164
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 165
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 166
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 167
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 168
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 169
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 170
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 171
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 172
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 173
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 174
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 175
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Guerrera_6_Skeleton.uasset" 176
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Anim_Run.uasset" 177
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Salto_Final.uasset" 178
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Salto_Inicial.uasset" 179
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Salto_Medio.uasset" 180
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/Mannequin/Animations/NewAnimBlueprint.uasset" 181
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/perder2.uasset" 182
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/883bd886-fb7c-4c67-a279-f215c237c55b.uasset" 183
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/c1fa8e4f-d94f-416d-bccb-30c8e1ea0673.uasset" 184
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/game_over.uasset" 185
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/menu.uasset" 186
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/restart.uasset" 187
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/GameOver.uasset" 188
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/HUD.uasset" 189
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/destroyrider_tga.uasset" 190
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Cerezo.uasset" 191
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Guerrera_6_PhysicsAsset.uasset" 192
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Guerrera_6.uasset" 193
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 194
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/KineticEnergy.uasset" 195
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/pickup_kineticEnergy.uasset" 196
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/spr_coin.uasset" 197
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Coin_Texture.uasset" 198
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Moneda_1.uasset" 199
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Sounds/Pickup_SFX.uasset" 200
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/Coins.uasset" 201
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/power_up.uasset" 202
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/MagnetRed.uasset" 203
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/MagnetWhite.uasset" 204
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Magnet.uasset" 205
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/Magnet.uasset" 206
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/tronco_pinchudo_textura_1.uasset" 207
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/01_-_Default.uasset" 208
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tronco_Triple_Pinchos_Cono_1.uasset" 209
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tronco_Triple_Pinchos_Cono_2.uasset" 210
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tronco_Triple_Pinchos_Cono_3.uasset" 211
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tronco_Triple_Pinchos_Cono_4.uasset" 212
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/Obstacle_Box.uasset" 213
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Mat_Pipe.uasset" 214
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Low_Obstacles_Pipes.uasset" 215
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_Textura_1.uasset" 216
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Mat_Tablas_Mina.uasset" 217
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_A.uasset" 218
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_B.uasset" 219
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_C.uasset" 220
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_D.uasset" 221
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_E.uasset" 222
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_F.uasset" 223
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Potato_King/Tablas/Tablas_y_Pilares_Tabla_G.uasset" 224
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/Obstacle_Pipe.uasset" 225
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/FloorTile_Diff.uasset" 226
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/FloorTile_EM.uasset" 227
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/FloorTile_Nrm.uasset" 228
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/FloorTile_Mat.uasset" 229
-"../../../Engine/Content/BasicShapes/Cube.uasset" 230
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/MasterTile.uasset" 231
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 232
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Maps/FirstMap_BuiltData.uasset" 233
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/Aakash_Gandhi_-_Chariots_of_War2.uasset" 234
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Maps/FirstMap.umap" 235
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/Blueprints/MainMenuMode.uasset" 236
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/Endless_Runner.uasset" 237
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/exit.uasset" 238
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Arte_2d/play.uasset" 239
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/wp2567196.uasset" 240
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/MainMenu.uasset" 241
-"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Maps/MainMenu.umap" 242
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 243
-"../../../Engine/Content/Maps/Entry.umap" 244
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 166
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 167
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 168
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 169
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 170
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 171
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 172
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector1.uasset" 173
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 174
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 175
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 176
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 177
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 179
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 180
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 181
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 182
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 183
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Clouds_Setting.uasset" 184
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Global_Setting.uasset" 185
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 186
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Top_part_alpha.uasset" 187
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 188
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 191
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 192
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 193
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Moon_Setting.uasset" 194
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 196
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 197
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 199
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 200
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 201
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 204
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 205
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 206
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 207
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 208
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 209
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 210
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars_Moon.uasset" 211
+"../../../Engine/Content/BasicShapes/Plane.uasset" 212
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 213
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 214
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 215
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 216
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 217
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 218
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 219
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 220
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 221
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 222
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 223
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 224
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 225
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 226
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 227
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 228
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 229
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 230
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 231
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 232
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 233
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 234
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 235
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/SK_Guerrera.uasset" 236
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Animations/Anim_S/Anim_Run.uasset" 237
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Animations/Anim_S/Salto_Final.uasset" 238
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Animations/Anim_S/Salto_Inicial.uasset" 239
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Animations/Anim_S/Salto_Medio.uasset" 240
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/Animations/AB_Guerra_v1.uasset" 241
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_Translucent.uasset" 242
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/MI_Translucent.uasset" 243
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/883bd886-fb7c-4c67-a279-f215c237c55b.uasset" 244
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/c1fa8e4f-d94f-416d-bccb-30c8e1ea0673.uasset" 245
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Menus/T_Game_over.uasset" 246
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Menus/T_Menu.uasset" 247
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Menus/T_Restart.uasset" 248
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/WB_Game_over.uasset" 249
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/WB_HUD.uasset" 250
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/T_Guerrera.uasset" 251
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/M_Cerezo.uasset" 252
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/PA_Guerrera.uasset" 253
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/ModeloPersonaje/SM_Guerrera.uasset" 254
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Sounds/SW_Game_over2.uasset" 255
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 257
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/MobileStarterContent/Textures/T_Water_M.uasset" 258
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/MobileStarterContent/Textures/T_Water_N.uasset" 259
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" 260
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/spr_coin.uasset" 261
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_Coin.uasset" 262
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/SM_coin.uasset" 263
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Sounds/SW_PowerUp.uasset" 264
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Barrier.uasset" 265
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_Textura_1.uasset" 266
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Mat_Tablas_Mina.uasset" 267
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_C.uasset" 268
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_F.uasset" 269
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_G.uasset" 270
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Sounds/SW_Pickup_SFX.uasset" 271
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Box_coins.uasset" 272
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_KineticEnergy.uasset" 273
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/SM_Energy.uasset" 274
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Coin.uasset" 275
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_MagnetRed.uasset" 276
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_MagnetWhite.uasset" 277
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/SM_magnet.uasset" 278
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Sounds/SW_Power_up.uasset" 279
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Magnet.uasset" 280
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/T_Wood.uasset" 281
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/01_-_Default.uasset" 282
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Wood/Tronco_Triple_Pinchos_Cono_1.uasset" 283
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Wood/Tronco_Triple_Pinchos_Cono_2.uasset" 284
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Wood/Tronco_Triple_Pinchos_Cono_3.uasset" 285
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Wood/Tronco_Triple_Pinchos_Cono_4.uasset" 286
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Spyke.uasset" 287
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_Pipe.uasset" 288
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/SM_Pipe.uasset" 289
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_A.uasset" 290
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_B.uasset" 291
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_D.uasset" 292
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Meshes/Table/Tablas_y_Pilares_Tabla_E.uasset" 293
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Wall.uasset" 294
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Floor/T_FloorTile_Diff.uasset" 295
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Floor/T_FloorTile_EM.uasset" 296
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Floor/T_FloorTile_Nrm.uasset" 297
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Materials/M_Floor.uasset" 298
+"../../../Engine/Content/BasicShapes/Cube.uasset" 299
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Blueprints/BP_Floor.uasset" 300
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 301
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Maps/Game_BuiltData.uasset" 302
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Sounds/SW_Game.uasset" 303
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Maps/Game.umap" 304
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/Blueprints/MainMenuMode.uasset" 305
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Menus/T_Endless_Runner.uasset" 306
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Menus/T_Exit.uasset" 307
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/Menus/T_Play.uasset" 308
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Textures/wp2567196.uasset" 309
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Interfaces/WB_Main_menu.uasset" 310
+"../../../../../../Users/Leethres/Documents/Unreal Projects/Proyecto_01_Runner/Content/RunnerFiles/Maps/MainMenu.umap" 311
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 312
+"../../../Engine/Content/Maps/Entry.umap" 313
